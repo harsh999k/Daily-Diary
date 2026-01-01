@@ -1,0 +1,6 @@
+Date: 1 September 2025
+Day: Monday
+
+Task: Redesigning the screens of KaamDhanda User App
+
+Work: Today, I restarted the design of the KaamDhanda User app. I first created and structured the wireframes to plan the layout and user flow clearly. After that, I designed the Order screen, focusing on clarity and ease of use. While working on this screen, I applied my previously learned knowledge and skills, such as layout structure, spacing, typography, and UX principles. This helped me create a more organized and improved design compared to my earlier attempts.

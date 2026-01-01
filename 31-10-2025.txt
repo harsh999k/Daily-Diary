@@ -1,0 +1,6 @@
+Date: 31 October 2025
+Day: Friday
+
+Task: make address screen
+
+Work: Today, I designed the Address screen of the KaamDhanda User app. The previous version of this screen was simple but lacked proper UX elements. I improved the design by adding friendly text, clear instructions, and pop-up messages to guide users. I focused on making the screen more user-friendly and intuitive, so users can easily add and manage their addresses without confusion. These changes helped improve clarity, usability, and overall user experience.

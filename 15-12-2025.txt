@@ -1,0 +1,6 @@
+Date: 15 December 2025
+Day: Monday
+
+Task: Shop Profile Screen
+
+Work: Today, I designed the Shop Profile screen of the KaamDhanda Partner App. This screen allows shopkeepers to add and update information related to their shop, such as details, descriptions, and images. While designing this screen, I focused on usability, clarity, and easy content management, so shopkeepers can quickly update their shop profile without confusion. This helps improve the overall presentation and credibility of the shop on the platform.

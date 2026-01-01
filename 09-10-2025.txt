@@ -1,0 +1,6 @@
+Date: 9 October 2025
+Day: Thursday
+
+Task: Completing the shop insider screen
+
+Work: Today, I completed the design of the Shop Insider screen of the KaamDhanda User app. I applied colors and typography according to the brand personality to maintain consistency with the rest of the app. I also added videos to the screen to make the prototype more interactive and engaging. Additionally, I included filter and sort options so users can easily analyze and view products based on their preferences. While finalizing this screen, I focused on usability, visual hierarchy, and smooth user interaction.

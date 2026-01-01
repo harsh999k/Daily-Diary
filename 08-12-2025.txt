@@ -1,0 +1,6 @@
+Date: 08 December 2025
+Day: Monday
+
+Task: Make the follower screen
+
+Work: Today, I started designing the Follower screen of the KaamDhanda Partner app. This is one of the most important screens, as it allows shopkeepers to view their followers, send offers, and analyze user activity. While designing this screen, I focused on clear layout, visual hierarchy, and easy navigation so shopkeepers can quickly understand follower information and take actions efficiently. This screen is important for engagement and business growth.

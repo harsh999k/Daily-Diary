@@ -1,0 +1,6 @@
+Date: 18 November 2025
+Day: Tuesday
+
+Task: Make the Home screen
+
+Work: Today, I started designing the Home Screen of the KaamDhanda Partner app. Since this screen is the face of the application, I focused on proper alignment and layout structure. I designed order cards where shopkeepers can easily view current and ongoing orders at a glance. While working on this screen, I focused on clarity, usability, and visual balance so shopkeepers can quickly understand and manage their daily operations.

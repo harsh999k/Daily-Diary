@@ -1,0 +1,6 @@
+Date: 13 August 2025
+Day: Thursday
+
+Task: Test the KaamDhanda Partner (For Shop Member)
+
+Work: Today, I tested the latest version of the KaamDhanda Partner (KDP) app, mainly focusing on the Shop Member section. I studied how shop members use the app to manage their daily work easily. I checked the usability of the app by observing how simple and clear the screens and features are. I also reviewed the accessibility of the app, such as readable text, easy-to-tap buttons, and smooth navigation for all users. The main focus was on improving efficiency, by understanding whether shop members can complete their tasks quickly with fewer steps. This testing helped me understand how good UX design can reduce effort and improve work flow for shop members. 

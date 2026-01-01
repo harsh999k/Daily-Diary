@@ -1,0 +1,6 @@
+Date: 27 October 2025
+Day: Monday
+
+Task: Complete the cart screen
+
+Work: Today, I completed the design of the Cart screen of the KaamDhanda User app. I added a Delivery Selection section so users can easily choose their preferred delivery option. I also added interactions throughout the cart flow, including button actions and screen transitions, to make the experience smooth and easy to follow. While finalizing the design, I focused on usability, clear feedback, and smooth user flow to ensure users can complete their cart actions without confusion.

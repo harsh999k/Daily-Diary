@@ -1,0 +1,6 @@
+Date: 13 October 2025
+Day: Monday
+
+Task: Adding components and assets
+
+Work: Today, I added different types of components to the KaamDhanda User app. Specifically, I built Like and Follow button components so they can be reused across multiple screens. I also designed a Shop Offers overlay with a sliding animation to make it more interactive and engaging. While working on these components, I focused on consistency, usability, and smooth interaction, which will help improve the overall user experience and speed up future design work.

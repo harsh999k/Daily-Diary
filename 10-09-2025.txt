@@ -1,0 +1,6 @@
+Date: 10 September 2025
+Day: Wednesday
+
+Task: Make popups and interactions
+
+Work: Today, I added pop-up screens in the KaamDhanda User app to display important alert and confirmation messages. These pop-ups help provide clear user feedback during actions such as confirmations, errors, or successful tasks. I also added interactions and animations using Figma Smart Animate to make the transitions smooth and natural. While designing the pop-ups i ensure that it can't break the flow

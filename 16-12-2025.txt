@@ -1,0 +1,6 @@
+Date: 16 December 2025
+Day: Tuesday
+
+Task: Make Bank Details Screen
+
+Work: Today, I designed the Shop screen of the KaamDhanda Partner app. I ensured that the design elements help users easily add important information related to their shop. I also focused on building user trust by using clear labels, proper structure, and supportive text to assure users that their information is safe and secure. Additionally, I designed a loading screen to show progress during actions, which helps keep users informed and improves the overall user experience.

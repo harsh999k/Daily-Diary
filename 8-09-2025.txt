@@ -1,0 +1,6 @@
+Date: 8 September 2025
+Day: Monday
+
+Task: Make the Home Screen
+
+Work: Today, I designed the Home Screen of the KaamDhanda User app. This screen was challenging to design because it is the face of the application and creates the first impression for users. I focused on making the layout clean and engaging. I added category sections and offer tiles to attract user attention and encourage interaction. While designing, I kept usability and visual clarity in mind to ensure users can easily explore the app.

@@ -1,0 +1,6 @@
+Date: 10 October 2025
+Day: Friday
+
+Task: changes in Shop insider screen
+
+Work: Today, I made changes to the Shop Insider screen based on the feedback given by my mentor. There were several alignment issues, which I carefully fixed to improve layout consistency and visual balance. I also redesigned the Sort and Filter bar and moved it to the bottom of the screen for easier access and better navigation. While making these changes, I focused on usability, accessibility, and clarity to improve the overall user experience.

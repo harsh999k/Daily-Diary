@@ -1,0 +1,6 @@
+Date: 17 November 2025
+Day: Monday
+
+Task: Start Designing the KaamDhanda Partner App
+
+Work: Today, I started designing the KaamDhanda Partner App, which is specifically for shopkeepers. First, I analyzed the app to understand how it works, including its overall flow, features, and existing issues. I observed how shopkeepers manage orders, products, and other activities through the app. This app is different from the User app and slightly more complex, as it includes more management-related functions. This analysis helped me understand the shopkeeper’s perspective and prepare for designing better and more efficient screens for the Partner App.

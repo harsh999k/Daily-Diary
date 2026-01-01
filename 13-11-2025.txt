@@ -1,0 +1,6 @@
+Date: 13 November 2025
+Day: Thursday
+
+Task: Make support screens
+
+Work: Today, I continued designing the Support screens of the KaamDhanda User app. I added a Raise Ticket screen where users can submit complaints related to their orders by selecting the appropriate category and subject. I also designed a Chat screen so users can easily interact with the support center in real time. While working on these screens, I focused on usability, clarity, and smooth communication, making it easier for users to get help and track their issues.

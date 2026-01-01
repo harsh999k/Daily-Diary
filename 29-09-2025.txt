@@ -1,0 +1,6 @@
+Date: 29 September 2025
+Day: Monday
+
+Task: Adding categories
+
+Work: Today, I redesigned the Categories bar of the KaamDhanda User app. Although the categories were visually attractive, they appeared too punchy and overwhelming, which affected user focus. I optimized the design by simplifying colors, adjusting spacing, and improving alignment to create a better visual hierarchy. This helped guide user attention naturally and reduced cognitive load. The updated design looks clean, well-structured, and balanced without disturbing the overall layout, improving usability and clarity.

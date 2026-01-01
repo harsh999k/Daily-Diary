@@ -1,0 +1,6 @@
+Date: 16 September 2025
+Day: Tuesday
+
+Task: Complete the account screen
+
+Work: Today, I finished designing the Account screen of the KaamDhanda User app. I used colors and spacing that match the previous screens to keep the design consistent throughout the app. To make the screen feel friendlier and more welcoming, I added simple illustrations. While finalizing the design, I paid attention to usability and visual balance to ensure users can easily understand and use the account options.

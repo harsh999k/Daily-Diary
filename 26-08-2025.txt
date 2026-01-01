@@ -1,0 +1,6 @@
+Date: 26 August 2025
+Day: Tuesday
+
+Task: Prototyping exercises
+
+Work: Today, I practiced prototyping and Bézier curve exercises to improve my understanding of animations and motion in UI design. I worked on creating different interactive elements using visual effects such as drop shadows, glow effects, and basic 3D transformations. These effects helped add depth and make the interface look more engaging.I also designed interactive buttons with smooth transitions and animations to improve the clicking experience for users. Through this practice, I learned how small animations and micro-interactions provide better visual feedback and make the app feel more responsive and user-friendly.

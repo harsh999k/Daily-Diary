@@ -1,0 +1,6 @@
+Date: 14 August 2025
+Day: Thursday
+
+Task: Test the KaamDhanda Partner (For Delivery Boy)
+
+Work: Today, I tested the latest version of the KaamDhanda Partner (KDP) focus on the Delivery Boy section. I analyzed how delivery partners use the app to accept orders, view delivery details, and complete deliveries. I checked the usability of the app by observing how easily delivery partners can understand the screens and actions. I also reviewed the accessibility of the interface, such as clear text, visible buttons, and simple navigation. The main focus was on efficiency, to ensure that delivery partners can complete their tasks quickly with minimal steps. This testing helped in understanding how the app supports smooth and error-free delivery operations. I ensure that only main and rapid features remains on the home screens so they can do their work without any hazzle.

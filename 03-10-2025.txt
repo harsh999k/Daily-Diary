@@ -1,0 +1,6 @@
+Date: 3 October 2025
+Day: Friday
+
+Task: Redesigning the shop cards and nearby shop section
+
+Work: Today, I redesigned the Shop Cards of the KaamDhanda User app. The earlier cards looked uneven and some information was misaligned, which affected readability. I reorganized the layout and aligned the content properly to improve visual hierarchy and clarity. I also updated the Nearby Shops section to match the new card design. The updated shop cards now look more dynamic, balanced, and visually appealing, which helps improve user engagement and usability.

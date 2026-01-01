@@ -1,0 +1,6 @@
+Date: 15 October 2025
+Day: Wednesday
+
+Task: Adjusting the spacing and nav bar
+
+Work: Today, I adjusted the spacing and made layout changes in the top navigation bar of the KaamDhanda User app. The bar was too large, so I optimized its height and rearranged the elements properly to make better use of space. While doing this, I focused on usability and visual balance so the navigation looks clean and does not distract users. These changes helped improve clarity and overall screen layout.

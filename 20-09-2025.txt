@@ -1,0 +1,6 @@
+Date: 20 September 2025
+Day: Saturday
+
+Task: Learn new tools features
+
+Work: Today, I learned some advanced features of Figma, such as how to create and use styles and variables. I understood how styles help maintain consistency in colors, text, and effects across the design. I also learned how variables can be used to manage design values efficiently and make future updates easier. This learning helped me improve design consistency and speed up my workflow.

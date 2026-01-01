@@ -1,0 +1,6 @@
+Date: 23 October 2025
+Day: Thursday
+
+Task: Cart bar Design
+
+Work: Today, I started designing the Cart Bar of the KaamDhanda User app. This part was a bit complex because it includes multiple functions and order details. To handle this, I first created proper wireframes to plan the structure of the cart bar. I focused on how orders are added and displayed, ensuring that previous orders do not conflict with new orders. I also planned how the cart bar will show the order status clearly. Creating wireframes helped me organize the logic and improve usability before moving to the final design.

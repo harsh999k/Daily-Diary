@@ -1,0 +1,6 @@
+Date: 24 September 2025
+Day: Wednesday
+
+Task: Complete the account screen
+
+Work: Today, I optimized the design of the Account screen of the KaamDhanda User app. To improve the layout, I studied the Swiggy app interface and observed how they use different sections to organize multiple options in a clear and structured way. Based on this study, I reorganized the account options to improve usability and clarity without overcrowding the screen. This activity helped me understand how good sectioning can make complex screens easier to use.

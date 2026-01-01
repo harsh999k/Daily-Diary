@@ -1,0 +1,6 @@
+Date: 17 September 2025
+Day: Wednesday
+
+Task: Improving the usability and interaction
+
+Work: Today, I focused on usability testing of the KaamDhanda User app. I tested different user flows such as browsing shops and viewing account details to understand how easily users can navigate through the app. I identified areas where the flow could be simplified and made small design changes to reduce user effort. In addition, I worked on adding more interactive elements using Figma prototyping. I improved button interactions, screen transitions, and feedback animations to make the app feel more responsive and user-friendly.

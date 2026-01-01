@@ -1,0 +1,6 @@
+Date: 20 August 2025
+Day: Wednesday
+
+Task: Reviewing the basics
+
+Work: Since there were many mistakes in my previous design, I decided to work on improving my design basics. I discussed several design-related questions with my mentor to clear my doubts and better understand UI/UX principles. To learn from real examples, I also tested and analyzed popular market apps such as Swiggy, Zomato, and Meesho. I observed their layouts, navigation, spacing, and overall user experience to understand how good design helps users interact easily with an app. This activity helped me identify my mistakes and learn how to improve my future designs.

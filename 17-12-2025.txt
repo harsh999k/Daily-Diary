@@ -1,0 +1,6 @@
+Date: 17 December 2025
+Day: Wednesday
+
+Task: Make shop section screen
+
+Work: Today, I started designing the Shop Section screens of the KaamDhanda Partner app, which are the main USP of the application. I first designed the title screen, which displays different actions and options based on user roles, such as Delivery Partner or Shop Member. While designing this screen, I focused on clear role-based actions, usability, and visual hierarchy, so users can quickly understand their tasks and navigate to the correct section.

@@ -1,0 +1,6 @@
+Date: 22 November 2025
+Day: Saturday
+
+Task: Account screen and Wallet
+
+Work: Today, I completed the Account screen of the KaamDhanda Partner app. After that, I started working on the Wallet feature of the app. To understand this feature better, I did some research on how wallet systems work in similar applications, including balance display, transaction history, and payout flow. This research helped me understand how to design the wallet feature in a clear and user-friendly way.

@@ -1,0 +1,6 @@
+Date: 4 September 2025
+Day: Thursday
+
+Task: Make the Wishlist Screen
+
+Work: Today, I designed the Wishlist screen of the KaamDhanda User app. I included two separate sections where users can add their favorite shops as well as favorite products. The layout was kept simple and organized to help users easily view and manage their saved items. While designing this screen, I focused on clarity, spacing, and ease of navigation so that users can quickly access what they like.

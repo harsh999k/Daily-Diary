@@ -1,0 +1,6 @@
+Date: 17 October 2025
+Day: Friday
+
+Task: Discussion and Updation
+
+Work: Today, I discussed the Home Screen layout of the KaamDhanda User app with my mentor. Based on our discussion, we decided to remove the Categories, Offers, and Deals sections and focus mainly on Shop Cards and related sections. This decision was made to reduce clutter and improve user focus and visual hierarchy. The goal is to make the home screen more clean, simple, and easier for users to explore shops quickly.

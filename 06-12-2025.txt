@@ -1,0 +1,6 @@
+Date: 06 December 2025
+Day: Saturday
+
+Task: Practice on templates
+
+Work: Today, I practiced using Framer by working on available templates to create sample designs. I tested different components and interactions to understand how things work in a real project. I also analyzed stack and layout options in Framer to learn how they help make websites responsive across different screen sizes. This practice helped me understand responsive design concepts and how no-code tools can be used to build flexible and modern websites.

@@ -1,0 +1,6 @@
+Date: 15 November 2025
+Day: Saturday
+
+Task: Make like us Screen and language selector
+
+Work: Today, I designed the Like & Share screen of the KaamDhanda User app, allowing users to like and share the app easily with others. I also designed the Change Language bar, so users can switch between different languages comfortably. While designing these features, I focused on usability, accessibility, and clear actions, ensuring users can quickly understand and use these options without confusion.

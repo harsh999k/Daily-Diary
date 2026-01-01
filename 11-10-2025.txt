@@ -1,0 +1,6 @@
+Date: 11 October 2025
+Day: Saturday
+
+Task: Analyzing the cart bar in latest apks
+
+Work: Today, I analyzed the Cart bar in the latest APK versions of the KaamDhanda app. I checked how the cart bar works, how it holds products, and how it shows the status of different items added to the cart. While testing, I noticed a few issues and inconsistencies in the cart behavior and visual display. I documented these observations and shared pointers and suggestions with my mentor to help improve the cart experience and overall usability.

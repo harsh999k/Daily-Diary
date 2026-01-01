@@ -1,0 +1,6 @@
+Date: 19 November 2025
+Day: Wednesday
+
+Task: Changing in the home screen 
+
+Work: Today, I made updates to the Home Screen of the KaamDhanda Partner app based on the feedback provided by my mentor. I adjusted layout, spacing, and add features to improve clarity and usability. After that, I started designing the Order Screen of the app, focusing on how shopkeepers can easily view and manage incoming orders. While working on these screens, I focused on usability, clear information flow, and efficient order management.

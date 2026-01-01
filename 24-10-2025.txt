@@ -1,0 +1,6 @@
+Date: 24 October 2025
+Day: Friday
+
+Task: Cart bar Design
+
+Work: Today, I continued working on the Cart Bar design of the KaamDhanda User app. I structured all the important elements and action buttons properly to make the cart easy to understand and use. I applied colors and spacing according to the brand SOP to maintain consistency with the rest of the app. While designing, I focused on usability, clarity, and visual balance so users can easily review their cart and take action without confusion.

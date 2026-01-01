@@ -1,0 +1,6 @@
+Date: 24 November 2025
+Day: Monday
+
+Task: Studying Figma advanced prototyping
+
+Work: Today, I learned advanced prototyping features in Figma, which are used to create more interactive prototypes. I explored how to add complex interactions, animations, and transitions to simulate real app behavior. This learning helped me understand how advanced prototyping improves user testing and gives a more realistic experience of the final product.

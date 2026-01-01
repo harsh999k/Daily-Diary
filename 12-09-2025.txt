@@ -1,0 +1,6 @@
+Date: 12 September 2025
+Day: Friday
+
+Task: Made the rating screen
+
+Work: Today, I designed the Rating screen of the KaamDhanda User app. I added simple illustrations to make the screen more engaging and friendly for users. I also included clear buttons and response options so users can easily submit their feedback without confusion. While designing this screen, I focused on usability and user engagement, ensuring that the feedback process feels quick, simple, and comfortable for users.

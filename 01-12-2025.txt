@@ -1,0 +1,6 @@
+Date: 01 December 2025
+Day: Monday
+
+Task: Make app tutorials screen and Language bar
+
+Work: Today, I designed the App Tutorial screen of the KaamDhanda Partner app. I structured the content in a way that users can easily find the solutions or guidance they are looking for. I focused on clear layout, simple navigation, and easy readability to improve usability. Along with this, I designed the Language Selection pop-up, allowing users to change the app language easily. This helped improve accessibility and overall user experience for shopkeepers.

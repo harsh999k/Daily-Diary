@@ -1,0 +1,6 @@
+Date: 22 December 2025
+Day: Monday
+
+Task: Make offer an deals screens
+
+Work: Today, I designed the Offers and Deals screen of the KaamDhanda Partner app. This screen allows shopkeepers to create and share coupons with customers easily. I also designed the Offer Details screen, where shopkeepers can fill in values such as discount, validity, and conditions. While designing these screens, I focused on usability, clear form structure, and easy navigation, so shopkeepers can create offers without confusion.

@@ -1,0 +1,6 @@
+Date: 18 October 2025
+Day: Saturday
+
+Task: Changes in order and order details screen
+
+Work: Today, I made changes to the Order and Order Details screens of the KaamDhanda User app. I added a progress component to the shop card layout to clearly show the order status. I also rearranged elements to maintain a clear visual hierarchy and improve readability. In the Order Details screen, I added dedicated sections for the delivery partner and shop members, making it easier for users to view contact and order-related information. These changes helped improve clarity, usability, and overall user experience.

@@ -1,0 +1,6 @@
+Date: 8 October 2025
+Day: Wednesday
+
+Task: Make shop insider screen 2
+
+Work: Today, I continued the design process of the Shop Insider screen that I started yesterday. I converted the low-fidelity wireframes into high-fidelity wireframes, adding proper layout, typography, and UI elements. This step helped give visual life to my rough sketches and made the design more clear and realistic. While working on this screen, I focused on structure, visual hierarchy, and usability to ensure the information is easy to understand

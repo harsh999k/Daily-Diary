@@ -1,0 +1,6 @@
+Date: 08 November 2025
+Day: Saturday
+
+Task: Payment interface screen
+
+Work: Today, I designed the Payment Interface screen of the KaamDhanda User app. I also connected the Order Details, Coupon, and Cart screens to create a smooth and complete purchase flow for buying a product. While designing the payment interface, I focused on clarity, security cues, and minimal distractions to build user trust. I also ensured that payment options, total amount, and confirmation actions are clearly visible and easy to understand. This helped improve the overall checkout experience.

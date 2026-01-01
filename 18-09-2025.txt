@@ -1,0 +1,6 @@
+Date: 18 September 2025
+Day: Thursday
+
+Task: Make the splash, sign-in and OTP verification screen
+
+Work: Today, I redesigned the Splash screen, Sign-in screen, and OTP verification screen of the KaamDhanda User app. I corrected the layout and applied the proper brand fonts to maintain consistency with the app’s design system. I also created and used components to add simple hover animations, which helped improve interactivity and visual feedback. This work helped make the onboarding screens more clear, consistent, and user-friendly.

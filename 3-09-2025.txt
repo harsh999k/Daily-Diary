@@ -1,0 +1,6 @@
+Date: 3 September 2025
+Day: Wednesday
+
+Task: Make the Order Detail Screen
+
+Work: Today, I moved further in the design process and created the child screen, which is the Order Details screen of the KaamDhanda User app. This screen is designed to help users easily understand all information related to their order. I kept the design simple and clear so that users can quickly view order status, items, and other details without confusion. I also used slightly larger font sizes to improve readability and make the content more user-friendly.

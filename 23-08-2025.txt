@@ -1,0 +1,6 @@
+Date: 23 August 2025
+Day: Saturday
+
+Task: Complete the food delivery home design
+
+Work: Today, I completed the design of my food delivery app. I designed the home tab bar, focusing on clean layout, proper spacing, and easy navigation. This design turned out to be one of my best works so far and showed clear improvement compared to my previous screens. I applied the learnings from Auto Layout, design principles, and visual hierarchy to make the interface more balanced and user-friendly. This task helped me gain more confidence in my UI design skills and understand my progress over time.

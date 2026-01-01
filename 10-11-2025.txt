@@ -1,0 +1,6 @@
+Date: 10 November 2025
+Day: Monday
+
+Task: Make the app tutorials screen
+
+Work: Today, I designed the App Tutorials screen of the KaamDhanda User app. I structured this screen in a way that users can easily search for topics and quickly find information about how to use different features of the app. I focused on clear layout, simple navigation, and usability so users can understand things without confusion. This design helps improve onboarding and supports users whenever they need guidance.

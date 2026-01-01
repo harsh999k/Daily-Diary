@@ -1,0 +1,6 @@
+Date: 02 December 2025
+Day: Tuesday
+
+Task: Make Sub account screens
+
+Work: Today, I designed the sub-account screens of the KaamDhanda Partner app, including Like Us, Support, and Terms & Conditions. I structured these screens clearly so users can easily understand and access the information. While designing, I focused on usability, clarity, and consistent layout, ensuring that these screens are simple to use and aligned with the overall app design.

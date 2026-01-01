@@ -1,0 +1,6 @@
+Date: 07 November 2025
+Day: Friday
+
+Task: Coupon screen 
+
+Work: Today, I designed the Coupon screen of the KaamDhanda User app. I used a ticket-shaped layout for the coupons to make them visually distinct and easy to recognize. I also gave the coupons a highlighted look so users can quickly notice available offers. While designing this screen, I focused on visual hierarchy, usability, and clarity, ensuring users can easily view and apply coupons during their purchase.

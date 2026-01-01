@@ -1,0 +1,6 @@
+Date: 30 October 2025
+Day: Thursday
+
+Task: Changes in previous design
+
+Work: Today, I discussed the previously designed screens with my mentor and received valuable feedback. The suggestions included removing unnecessary buttons and reducing the text size to improve clarity and reduce visual clutter. Based on this feedback, I made the required design changes. I also added pop-up alerts to display important messages to users, providing clear user feedback during key actions. This process helped improve usability and overall user experience.

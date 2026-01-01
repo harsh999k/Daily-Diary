@@ -1,0 +1,6 @@
+Date: 18 December 2025
+Day: Thursday
+
+Task: Make shop members screen
+
+Work: Today, I continued working on the Shop Section of the KaamDhanda Partner app and designed the Shop Member screen. This screen allows shopkeepers to manage their members, view member details, and assign tasks efficiently. While designing this screen, I focused on usability, clear task flow, and visual hierarchy, so shopkeepers can easily manage their team and track responsibilities.

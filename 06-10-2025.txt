@@ -1,0 +1,6 @@
+Date: 6 October 2025
+Day: Monday
+
+Task: Make shop insider screen
+
+Work: Today, I started designing the Shop Insider screen of the KaamDhanda User app. This screen is a bit complex because it displays detailed information about the shop along with its products. To design it more efficiently, I first created low-fidelity wireframes to plan the layout, content structure, and user flow. This approach helped me organize information clearly and prepare a strong foundation before moving to the final UI design.

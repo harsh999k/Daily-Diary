@@ -1,0 +1,6 @@
+Date: 05 December 2025
+Day: Friday
+
+Task: Learning new softwares
+
+Work: Today, I started learning new software tools such as Framer and ProtoPie. I found Framer very interesting as it is a no-code website builder tool. I learned how websites can be designed and built without writing a single line of code by using visual components and interactions. This learning helped me understand how no-code tools can speed up the design process and allow designers to create functional websites more efficiently.

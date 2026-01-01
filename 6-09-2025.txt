@@ -1,0 +1,6 @@
+Date: 6 September 2025
+Day: Saturday
+
+Task: Make the Profile screen
+
+Work: Today, I designed the Profile screen of the KaamDhanda User app. I created clear and well-structured container blocks so users can easily fill in and update their details. My main focus was on usability, ensuring that the screen is simple and easy to understand. I also considered accessibility by keeping readable font sizes, clear labels, and a clean layout so that even a child can use the app comfortably. This approach helped in creating a user-friendly and inclusive design.

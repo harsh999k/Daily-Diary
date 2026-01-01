@@ -1,0 +1,6 @@
+Date: 22 September 2025
+Day: Monday
+
+Task: Apply changes from feedback
+
+Work: Today, I made design changes based on my mentor’s feedback. They said to me like replaced some icons, removed unnecessary extra spacing, and adjusted the font sizes and button sizes to improve clarity. These changes helped improve usability and visual balance across the screens. This activity helped me understand how small improvements based on feedback can greatly enhance the overall user experience.

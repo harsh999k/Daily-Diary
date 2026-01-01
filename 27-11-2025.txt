@@ -1,0 +1,6 @@
+Date: 27 November 2025
+Day: Thursday
+
+Task: Learn the Design System
+
+Work: Based on my previous practice, today I learned how to create an effective design system to make designs more dynamic and stand out from others. I understood how consistent use of colors, typography, components, and variables helps maintain design quality across screens. I also explored work by professional creators available online and followed their practices to improve my own design approach. This learning helped me strengthen consistency, scalability, and overall visual impact in my designs.

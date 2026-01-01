@@ -1,0 +1,6 @@
+Date: 20 November 2025
+Day: Thursday
+
+Task: Make the order Screen
+
+Work: Today, I continued working on the Order screen of the KaamDhanda Partner app. I designed both the All Orders and Delivery Orders sections so shopkeepers can easily view and manage different types of orders. I also added filter bars to help users quickly sort and find specific orders. While designing this screen, I focused on efficiency, clear visual hierarchy, and structured information flow, so important order details stand out and actions can be taken quickly. This helped improve usability and overall workflow for shopkeepers.

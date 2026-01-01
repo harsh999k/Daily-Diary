@@ -1,0 +1,6 @@
+Date: 11 November 2025
+Day: Tuesday
+
+Task: Make the About us and support Section screen
+
+Work: Today, I designed the About Us screen of the KaamDhanda User app and started working on the Support Us section. While designing the About Us screen, I focused on presenting the brand story and information in a clear and readable format. For the Support Us section, I began structuring the layout so users can easily understand how they can get help or support the platform. Throughout the design, I focused on usability, clarity, and consistent visual style to maintain a user-friendly experience.

@@ -1,0 +1,6 @@
+Date: 03 November 2025
+Day: Monday
+
+Task: Notification screen
+
+Work: Today, I designed the Notification screen of the KaamDhanda User app. In this screen, I added different types of notifications such as order updates, offers, and important alerts. I structured the notifications clearly so users can easily understand the message and its importance. While designing, I focused on usability, visual hierarchy, and readability, using proper spacing and icons to make the screen clean and easy to scan. This helped improve how users receive and understand updates within the app.

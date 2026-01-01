@@ -1,0 +1,6 @@
+Date: 11 August 2025
+Day: Monday
+
+Task: Test the latest Apps (KaamDhanda User)
+
+Work: Today, I tested the latest versions of the KaamDhanda Partner (KDP) app and the KaamDhanda User (KD) app. The main focus today was on the KaamDhanda User app. I analyzed how the overall user experience (UX) works within the application, including navigation flow, screen transitions, and ease of use. I reviewed the interface design to understand how information is presented to users and how effectively users can interact with different features. I also checked the clarity of icons, buttons, and layouts to ensure the interface is simple, user-friendly, and visually balanced. This testing helped in identifying usability strengths and possible areas for improvement in the app. There are so many errors in their design and layout. I make a points on them and tell what are the problems.

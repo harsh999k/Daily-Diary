@@ -1,0 +1,6 @@
+Date: 28 November 2025
+Day: Friday
+
+Task: make the wallet screen
+
+Work: Today, I started designing the Wallet screen of the KaamDhanda Partner app. This screen is a bit complex because it contains multiple details such as balance information and transaction-related data. To handle this complexity, I first created low-fidelity wireframes to plan the basic layout and information structure. After that, I began working on high-fidelity wireframes to give a clearer visual representation of the screen. This approach helped me organize the content properly and improve usability before finalizing the design.

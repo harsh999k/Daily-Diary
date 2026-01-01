@@ -1,0 +1,6 @@
+Date: 18 August 2025
+Day: Monday
+
+Task: Developing The screens
+
+Work: Today, I start designing screens of the KaamDhanda User App. I designed the splash screen, Enter number and OTP screen.

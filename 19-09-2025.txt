@@ -1,0 +1,6 @@
+Date: 19 September 2025
+Day: Friday
+
+Task: Make the Terms and conditions screen and announcement
+
+Work: Today, I added the Terms and Conditions screen to the KaamDhanda User app. I designed this screen in a clear and readable format so users can easily understand the information. Along with this, I also created an Announcements section that includes videos and messages to inform users about new features, updates, and important information. While designing these sections, I focused on usability and clarity to ensure users can access and understand the content without difficulty.

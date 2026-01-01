@@ -1,0 +1,6 @@
+Date: 06 November 2025
+Day: Thursday
+
+Task: Discussion about business model
+
+Work: Today, I talked with my mentor about the earlier designs and went over the changes we've made so far. We also looked at the business model of KaamDhanda and how design choices should connect with business goals. I learned how to adjust UI/UX design based on target users, the revenue model, and product priorities. This discussion helped me see the importance of designing for usability and for business impact.

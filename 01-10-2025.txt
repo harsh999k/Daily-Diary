@@ -1,0 +1,6 @@
+Date: 1 October 2025
+Day: Wednesday
+
+Task: Test the KaamDhanda Website
+
+Work: Today, I tested the KaamDhanda website developed by one of our developers. I reviewed the overall website structure, font usage, visual hierarchy, and scrolling behavior. I analyzed which parts of the website work well and which areas need improvement. I also identified design issues and errors related to layout, readability, and user flow. This testing helped me understand how UI/UX principles apply to web design and how to evaluate a product critically.

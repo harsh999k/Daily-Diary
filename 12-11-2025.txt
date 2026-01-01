@@ -1,0 +1,6 @@
+Date: 12 November 2025
+Day: Wednesday
+
+Task: Make support screens
+
+Work: Today, I continued designing the Support screens of the KaamDhanda User app. I created separate sections for different support platforms such as Email and WhatsApp, so users can easily choose their preferred way to contact support. While designing these sections, I focused on clarity, accessibility, and ease of navigation, ensuring users can quickly find help without confusion. This design helps improve user trust and support experience. I also attend the Figma build session for more design principles clarity

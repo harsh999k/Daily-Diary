@@ -1,0 +1,6 @@
+Date: 25 September 2025
+Day: Thursday
+
+Task: Improving the user flow
+
+Work: Today, I focused on testing the overall user flow of the KaamDhanda User app after recent design optimizations. I navigated through key screens such as Home, Account, Orders, and Profile to ensure smooth transitions and consistent design. I identified a few minor usability issues and made small improvements to spacing, button placement, and labels. This activity helped me understand how end-to-end testing improves the quality and reliability of the app design.

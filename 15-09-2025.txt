@@ -1,0 +1,6 @@
+Date: 15 September 2025
+Day: Monday
+
+Task: Account screen and test new apks
+
+Work: Today, I started designing the Account screen of the KaamDhanda User app. I included both new features and existing features and organized them with proper structure, clear labels, and suitable icons. The focus was on making the screen easy to understand and navigate. Along with the design work, I also tested the latest APK versions of the app to observe functionality and user flow. This helped me understand how design and real app behavior work together.

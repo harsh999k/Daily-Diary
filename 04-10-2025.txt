@@ -1,0 +1,6 @@
+Date: 4 October 2025
+Day: Saturday
+
+Task: Adding delivery and pickup section
+
+Work: Today, I added the Delivery and Pickup sections to the Order screen of the KaamDhanda User app. These sections help users easily distinguish between delivery and pickup orders. I also added search functionality so users can quickly find their orders. Additionally, I implemented filter options using pop-ups, allowing users to apply filters easily without leaving the screen. While designing this, I focused on usability, clarity, and efficiency to make order management simple and user-friendly.

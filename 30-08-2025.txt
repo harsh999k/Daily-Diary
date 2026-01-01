@@ -1,0 +1,6 @@
+Date: 30 August 2025
+Day: Saturday
+
+Task: Color theory and psychology
+
+Work: Today, I studied color theory, color psychology, and typography to improve the visual quality of my designs. I learned how different colors create different emotions and influence user mood, such as how warm colors attract attention and cool colors create a calm feeling. I also studied the color wheel to understand primary, secondary, and complementary colors, and how balanced color combinations improve readability and visual harmony. Along with this, I practiced choosing suitable font sizes and font weights for headings and body text. This activity helped me improve the overall look, consistency, and user experience of my UI screens.

@@ -1,0 +1,6 @@
+Date: 13 December 2025
+Day: Saturday
+
+Task: Practice Framer and Figma
+
+Work: Today, I practiced conditional prototyping in Figma to understand how different actions can trigger different outcomes based on user behavior. This helped me learn how to create more realistic and interactive prototypes. Along with this, I built a hover flip card in Framer, which helped me explore advanced hover interactions and animations. This practice improved my understanding of interactivity, user feedback, and modern UI elements.

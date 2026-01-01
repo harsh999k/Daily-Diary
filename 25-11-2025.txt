@@ -1,0 +1,6 @@
+Date: 25 November 2025
+Day: Tuesday
+
+Task: Practice the prototyping and variables
+
+Work: Today, I practiced the features that I learned yesterday related to advanced prototyping in Figma. I created different sample prototypes to understand interactions and animations better. I also studied professional design templates to learn best practices used by experienced designers. Additionally, I learned how to use variables to create a design system, which helps maintain consistency and makes designs easier to manage and update. This practice helped improve my workflow and design efficiency.

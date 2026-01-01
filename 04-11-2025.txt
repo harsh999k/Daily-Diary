@@ -1,0 +1,6 @@
+Date: 04 November 2025
+Day: Tuesday
+
+Task: Notification screen
+
+Work: Today, I designed the empty (blank) Notification screen of the KaamDhanda User app, which is shown when there are no notifications available. I used friendly text and simple visuals to clearly inform users that there are no updates at the moment. i also add the tabs in the main notification screen to distinguish the notification.

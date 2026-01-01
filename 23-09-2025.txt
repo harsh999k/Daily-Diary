@@ -1,0 +1,6 @@
+Date: 23 September 2025
+Day: Tuesday
+
+Task: Optimizing the screens
+
+Work: Today, I optimized the Home screen of the KaamDhanda User app by fixing some issues found in the earlier design. I improved layout structure, spacing, and content placement to make the screen more clear and easy to use. I also worked on optimizing the Account screen to include more options on a single screen without making it look crowded. While doing this, I focused on usability and clarity so users can easily find and access features.

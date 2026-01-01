@@ -1,0 +1,6 @@
+Date: 25 October 2025
+Day: Saturday
+
+Task: Adding components and order type screen
+
+Work: Today, I added components to the Orders screen of the KaamDhanda User app. I designed different components based on the order status so users can easily understand the progress of their orders. Each status has a clear visual indicator to improve clarity and feedback. I also added an Order Selection screen in the Cart Bar, allowing users to select and manage their orders type easily. While working on this, I focused on usability, visual hierarchy, and clear user feedback.

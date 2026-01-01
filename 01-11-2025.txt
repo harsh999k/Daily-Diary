@@ -1,0 +1,6 @@
+Date: 01 November 2025
+Day: Saturday
+
+Task: make another address screen
+
+Work: Today, I designed the second Address screen of the KaamDhanda User app, where customers can fill in their address details for receiving their orders. I used tile-based text input fields to make the form easy to understand and simple to use. While designing this screen, I focused on usability and clarity, ensuring that users can enter their address smoothly without confusion. This approach helped improve the overall address entry experience for users.

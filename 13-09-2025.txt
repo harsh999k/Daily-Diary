@@ -1,0 +1,6 @@
+Date: 13 September 2025
+Day: Saturday
+
+Task: Made the Components
+
+Work: Today, I designed components for the first time in the KaamDhanda User app. These components help make the screens more interactive and can be reused in other screens to maintain consistency. I learned how components save time and make future design work easier. I used these components in the Rating screen and completed its design. This activity helped me understand the importance of reusable elements in UI design.

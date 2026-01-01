@@ -1,0 +1,6 @@
+Date: 25 August 2025
+Day: Monday
+
+Task: Template design and prototyping
+
+Work: Today, I started designing story-based interfaces in an app using a template. I learned how story indicators and swipe interactions help in building user interest and grabbing user attention. These elements make the app feel more interactive and engaging. Along with this, I learned some basic concepts of prototyping to add simple animations and interactions. This helped me understand how motion and transitions improve the overall user experience and make the app more dynamic and easy to use.

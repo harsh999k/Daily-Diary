@@ -1,0 +1,6 @@
+Date: 21 November 2025
+Day: Friday
+
+Task: Complete the order Screen
+
+Work: Today, I completed the design of the Order screen of the KaamDhanda Partner app. I added a Pickup section so shopkeepers can easily manage pickup orders along with delivery orders. I also created different components to represent various order statuses, making it easier to understand the progress of each order at a glance. Additionally, I added a search bar with working functionality to help users quickly find specific orders. While finalizing this screen, I focused on usability, efficiency, and clear visual hierarchy to improve the overall order management experience.

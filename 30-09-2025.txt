@@ -1,0 +1,6 @@
+Date: 30 September 2025
+Day: Tuesday
+
+Task: Adding Follower bar
+
+Work: Today, I designed the Followers section of the KaamDhanda User app. In this section, users can scroll through the shops they follow and view the products from those shops easily. While designing this screen, I focused on usability and smooth scrolling, so users can browse content without interruption. I also maintained proper visual hierarchy and spacing to ensure the content looks clean and easy to understand.

@@ -1,0 +1,6 @@
+Date: 19 August 2025
+Day: Monday
+
+Task: Developing The Home screens
+
+Work: Today, I designed the Home screen of the KaamDhanda User app. I used different UI elements such as bars, icons, and basic shapes to organize the content clearly. The focus was on making the screen easy to understand and visually balanced for users. After completing the design, I shared it with my supervisor for review and verification and waited for feedback for further improvement.

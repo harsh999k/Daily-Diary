@@ -1,0 +1,6 @@
+Date: 10 December 2025
+Day: Wednesday
+
+Task: Make Add Member Screen
+
+Work: Today, I started working on an urgent task assigned to me, which was designing the Add Member screen of the KaamDhanda Partner app. While designing this screen, my main focus was to optimize the flow, reduce the number of clicks, and make the process faster and easier for users. I structured the layout clearly and arranged inputs and actions logically to improve usability and efficiency. This helped create a smoother experience for adding new members.

@@ -1,0 +1,6 @@
+Date: 27 September 2025
+Day: Saturday
+
+Task: Redesign the order and order details screen
+
+Work: Today, I redesigned the Order and Order Details screens of the KaamDhanda User app. The Order screen was a bit challenging because it contains a lot of information within a single card. My main goal was to display only the essential information clearly using a well-structured card layout. I carefully arranged elements to avoid clutter and improve readability. Additionally, I aligned all order-related information properly on the Order Details screen to make it easy for users to understand their order at a glance. This work helped improve clarity and usability of the order flow.

@@ -1,0 +1,6 @@
+Date: 11 September 2025
+Day: Thursday
+
+Task: Tweaks and animation tutorials
+
+Work: Today, I faced some issues in my design and prototyping work. Based on the feedback from my mentor, I made necessary tweaks and improvements to fix those issues. To improve my understanding of animations, I watched a few animation tutorials and practiced by creating a sample animation in Figma. This helped me better understand motion, transitions, and how animations improve user interaction and overall experience.

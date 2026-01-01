@@ -1,0 +1,6 @@
+Date: 20 December 2025
+Day: Saturday
+
+Task: Make Delivery partner screen
+
+Work: Today, I continued working on the Shop Section of the KaamDhanda Partner app and designed the Delivery Partner screen. This screen allows shopkeepers to manage delivery partners, view their details, and track assigned deliveries. While designing this screen, I focused on usability, clear information structure, and efficient workflow, so shopkeepers can easily assign and monitor delivery tasks.

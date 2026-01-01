@@ -1,0 +1,6 @@
+Date: 29 August 2025
+Day: Friday
+
+Task: Study About Wireframing
+
+Work: Today, I studied how wireframing is used to structure the design and layout before moving to the final UI. I learned how wireframes help in planning screen structure, content placement, and user flow in an application. After understanding the concept, I created low-fidelity wireframes to focus on basic layout and high-fidelity wireframes to represent more detailed and refined designs. This activity helped me understand how wireframing makes the design process more clear, organized, and efficient.

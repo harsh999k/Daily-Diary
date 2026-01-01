@@ -1,0 +1,6 @@
+Date: 21 August 2025
+Day: Thursday
+
+Task: Design psychology and figma
+
+Work: Today, I learned about design psychology and understood how the human brain perceives design and visual elements. I learned how small design details can attract user attention and how even minimal elements can create a strong impact when used correctly. I also learned how to create a glass (glassmorphism) effect in Figma and explored some of its beta features. Additionally, I practiced using Figma Auto Layout to maintain consistency and improve the effectiveness of designs across different screens.

@@ -1,0 +1,6 @@
+Date: 03 December 2025
+Day: Wednesday
+
+Task: Make Sub account screens
+
+Work: Today, I designed other sub-account screens of the KaamDhanda Partner app, including the About Us screen and the Edit Profile Information screen. I focused on keeping these screens clear and easy to use so users can quickly view information and update their details. Along with the design work, I also explored new tools such as Rive and ProtoPie to learn advanced animation and interaction techniques. This helped me understand how these tools can enhance interactivity and push my design skills beyond basic limits.

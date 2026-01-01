@@ -1,0 +1,6 @@
+Date: 22 August 2025
+Day: Friday
+
+Task: Figma auto layout and practice design
+
+Work: Today, I completed my practice of Figma Auto Layout, focusing on creating consistent and responsive design components. I learned how Auto Layout helps in maintaining proper spacing, alignment, and scalability across different screen sizes. After completing the practice, I started working on a food delivery app design by following a tutorial from the Design Sense YouTube channel. Through this process, I observed how professional designers structure screens, use colors, typography, and UI components effectively. This activity helped me improve my practical understanding of UI design and strengthened my confidence in using Figma for real app design projects.
