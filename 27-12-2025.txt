@@ -1,0 +1,6 @@
+Date: 27 December 2025
+Day: Saturday
+
+Task: reducing User flow
+
+Work: Today, I started working on reducing the user flow of the KaamDhanda User app. My main goal was to make the user journey faster and simpler by identifying and removing unnecessary buttons and extra clicks. I reviewed key screens and flows to understand where users might face delays or confusion. This process helped improve usability, efficiency, and overall user experience.

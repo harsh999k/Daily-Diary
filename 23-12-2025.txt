@@ -1,0 +1,6 @@
+Date: 23 December 2025
+Day: Tuesday
+
+Task: Make main shop screen
+
+Work: Today, I started designing the Main Shop screen of the KaamDhanda Partner app. This screen is complex, so I first analyzed the requirements to understand how it can be designed efficiently. I planned the layout and information flow before moving to detailed design. Along with this, I added interactions to the previously designed screens and prototyped them to create a smooth and connected user flow. This helped me test navigation and improve overall usability.

@@ -1,0 +1,6 @@
+Date: 24 December 2025
+Day: Wednesday
+
+Task: Complete the main shop screen
+
+Work: Today, I completed the design of the Main Shop screen of the KaamDhanda Partner app. This screen is designed to look exactly like how customers view the shop, helping shopkeepers understand their storefront experience. I added different sections for different tasks, such as managing products, orders, offers, and shop details. While finalizing this screen, I focused on visual hierarchy, clarity, and usability to ensure shopkeepers can easily navigate and manage their shop.

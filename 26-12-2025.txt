@@ -1,0 +1,6 @@
+Date: 26 December 2025
+Day: Friday
+
+Task: Managing the assets and testing the latest apks
+
+Work: Today, I managed and organized the design assets that I had created for the project. I also prepared and shared the required images and resources with my mentor for implementation. Along with this, I tested the latest APK versions of the app to check whether the designs were implemented correctly and effectively. This helped me understand how designs translate into the final product and identify any gaps between design and development.

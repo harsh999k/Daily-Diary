@@ -1,0 +1,6 @@
+Date: 30 December 2025
+Day: Tuesday
+
+Task: Making Automated Chat Flow
+
+Work: Today, I started working on designing the Automated Chat feature of the KaamDhanda User app, where users can chat with AI for assistance. First, I studied how similar features are implemented in other apps to understand best features and user expectations. Based on this research, I gathered relevant knowledge and resources and then created a rough wireframe to plan the chat layout, message flow, and basic interactions. This helped me structure the feature before moving to detailed design.

@@ -1,0 +1,6 @@
+Date: 29 December 2025
+Day: Monday
+
+Task: reducing User flow
+
+Work: Today, I started working on reducing the user flow of the KaamDhanda Partner app, which contains some complex workflows. I discussed these flows with my mentor, especially how shop members and delivery partners handle orders within the app. Based on the discussion, I identified areas where steps can be simplified to improve efficiency. I also noted a few errors and bugs present in the app and shared them with the team for further improvement. This helped improve usability, clarity, and workflow efficiency.
